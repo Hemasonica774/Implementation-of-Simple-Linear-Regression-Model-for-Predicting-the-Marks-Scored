@@ -68,19 +68,41 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![Screenshot 2023-08-24 083338](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/c4845eea-103e-4c4a-993d-bbd2481f3fd0)
+## Head
 
-![Screenshot 2023-08-24 083348](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/9043d9ca-e4d3-44f3-88d9-15a8ee95e582)
+![Screenshot 2023-09-12 153046](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/49c4237b-a24c-4e6b-9a17-466966cccf6f)
 
-![Screenshot 2023-08-24 083355](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/c6a920a7-1c94-40dd-92dd-f8b0e4302411)
+## Tail
 
-![Screenshot 2023-08-24 083406](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/d8542ce7-eefe-4f2b-8537-3342b9117bca)
+![Screenshot 2023-09-12 153120](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/5c8cf7cd-e506-4000-9e2e-e9a9c26fe17a)
 
-![Screenshot 2023-08-24 083414](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/be21e611-429a-4ccb-a7b1-aafbfab115e4)
+## Array value of x
 
-![Screenshot 2023-08-24 083422](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/90099227-fd69-474d-b8bb-f5972fb0f19a)
+![Screenshot 2023-09-12 153157](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/dcd1f920-54e8-4882-8513-6aa5d2919289)
 
-![Screenshot 2023-08-24 083429](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/1eee6381-9bc0-421e-a3bf-d57da228295b)
+## Array value of y
+
+![Screenshot 2023-09-12 153226](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/18ad968a-e82f-43dd-a4c3-65c565e546a3)
+
+## Values of y prediction
+
+![Screenshot 2023-09-12 153307](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/7a81f2ef-a958-472a-8a1f-b8652d30b891)
+
+## Array value y test
+
+![Screenshot 2023-09-12 153342](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/888b53ee-47f1-4944-bb30-e6bd819b88a2)
+
+## Training set graph
+
+![Screenshot 2023-09-12 153420](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/b424bf96-ba75-4d64-8768-eec0fc655ede)
+
+## Test set graph
+
+![Screenshot 2023-09-12 153456](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/d91f73e3-ca43-4fa3-b40b-7b72cb51e004)
+
+## Values of MSE,MAE,RMSE
+
+![Screenshot 2023-09-12 153521](https://github.com/Hemasonica774/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118361409/baf61fb7-5894-4549-8cc1-5329fe956600)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
